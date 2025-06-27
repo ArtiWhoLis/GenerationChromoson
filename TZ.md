@@ -28,4 +28,4 @@
 
 ### 6. Прочее
 
-Исходный код приложения размещён на GitHub по адресу: https://github.com/ArtiWhoLis/GenerationChromoson. Год разработки — 2024. 
+Исходный код приложения размещён на GitHub по адресу: https://github.com/ArtiWhoLis/GenerationChromoson. Год разработки — 2025. 
